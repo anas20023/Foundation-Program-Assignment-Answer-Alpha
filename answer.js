@@ -11,7 +11,7 @@ console.log(describeValue(null))
 console.log(describeValue(undefined))
 console.log(describeValue("0"))
 console.log(describeValue(NaN))
-
+ 
 //Question No. 2
 const getDayType=(day)=>{
     let message="Invalid Day";
